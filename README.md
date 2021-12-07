@@ -1,1 +1,1 @@
-Here is the list of some basic questions solved in Java programming language
+Here is the list of some basic questions of Recursion solved in Java programming language
